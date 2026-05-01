@@ -14,3 +14,5 @@
 ## How to Run
 gcc main.c -o food
 ./food
+
+### Author
