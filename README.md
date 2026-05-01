@@ -16,3 +16,4 @@ gcc main.c -o food
 ./food
 
 ### Author
+Raja Sherina T
